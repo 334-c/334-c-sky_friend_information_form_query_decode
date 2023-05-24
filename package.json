@@ -1,0 +1,18 @@
+{
+  "name": "sfifq_decode",
+  "version": "1.0.0",
+  "description": "光遇交友表单查询数据解密",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serv": "node  app.js",
+    "app": "node app.js"
+  },
+  "author": "",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
